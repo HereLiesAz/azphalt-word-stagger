@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/word-stagger",
+    "version":  "1.2.0",
+    "description":  "",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
