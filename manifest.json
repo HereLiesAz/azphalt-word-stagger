@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Words fade up and rise the last few pixels into place, a fifth of a second apart.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
